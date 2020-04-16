@@ -12,7 +12,7 @@ import java.util.Scanner;
 /**
  *
  * @author srinivsi
- */
+  April 16th */
 public class SelectCourses {
    public static CoursesLocation Brampton = CoursesLocation.getLocation();//we only ever want one 
    // location that offers this course
