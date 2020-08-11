@@ -8,6 +8,7 @@ package courses;
 /**
  *  A class to model course SoftwareDesign
  * @author Sivagama Srinivasan
+ * August 11th,2020
  */
 public class SoftwareDesign extends Courses
 {
