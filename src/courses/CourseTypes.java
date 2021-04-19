@@ -8,7 +8,7 @@ package courses;
 /**
  *This class should provide the requested 
  * course to SelectCourses class.
- * @author srinivsi
+ * @author srinivsi April 19
  */
 public class CourseTypes 
 {
