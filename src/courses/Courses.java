@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author srinivsi April 19
+ * @author srinivsi 
  */
 public class Courses {
 
