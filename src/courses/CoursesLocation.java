@@ -8,7 +8,7 @@ package courses;
 /** A class that provides the location where courses are offered.
  * We only ever want one location to provide 
  * course database and Softwaredesign to ensure consistency.
- * @author Sivagama Srinivasan April 19
+ * @author Sivagama Srinivasan 
  */
 public class CoursesLocation {
    public int numofstudents = 0;// how many courses to add in semester
