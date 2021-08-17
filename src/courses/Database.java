@@ -7,7 +7,7 @@ package courses;
 
 /**
  *  A class to model course Database
- * @author Sivagama Srinivasan April 19
+ * @author Sivagama Srinivasan 
  */
 public class Database extends Courses
 {
