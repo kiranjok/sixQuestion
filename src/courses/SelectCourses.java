@@ -10,7 +10,7 @@ package courses;
 import java.util.Scanner;
 
 /**
- * APril 20
+ * August
  * @author srinivsi
   */
 public class SelectCourses {
